@@ -1,0 +1,197 @@
+2017-03-07 14:11:20,228 : {Debug} Server Start on port:0
+2017-03-07 14:13:07,150 : {Debug} Server Start on port:9999
+2017-03-07 14:14:09,318 : {Debug} Accept connection from 127.0.0.1:49560 URI / -1 bytes
+2017-03-07 14:14:09,318 : {Error} Response code=401 mes=Wrong method
+2017-03-07 14:14:09,369 : {Debug} Accept connection from 127.0.0.1:49562 URI /favicon.ico -1 bytes
+2017-03-07 14:14:09,369 : {Error} Response code=401 mes=Wrong method
+2017-03-07 14:14:09,489 : {Debug} Accept connection from 127.0.0.1:49564 URI /favicon.ico -1 bytes
+2017-03-07 14:14:09,489 : {Error} Response code=401 mes=Wrong method
+2017-03-07 14:29:16,142 : {Debug} Server Start on port:9999
+2017-03-07 14:30:39,928 : {Debug} Accept connection from 127.0.0.1:49918 URI / 4 bytes
+2017-03-07 14:30:39,928 : {Error} Response code=404 mes=Wrong API
+2017-03-07 14:30:43,205 : {Debug} Accept connection from 127.0.0.1:49920 URI / 4 bytes
+2017-03-07 14:30:43,205 : {Error} Response code=404 mes=Wrong API
+2017-03-07 14:30:46,669 : {Debug} Accept connection from 127.0.0.1:49922 URI / 4 bytes
+2017-03-07 14:30:46,669 : {Error} Response code=404 mes=Wrong API
+2017-03-07 14:38:03,096 : {Debug} Server Start on port:9999
+2017-03-07 14:38:10,152 : {Debug} Accept connection from 127.0.0.1:44306 URI / 4 bytes
+2017-03-07 14:38:10,152 : {Error} Response code=404 mes=Wrong API
+2017-03-07 14:38:43,875 : {Debug} Accept connection from 127.0.0.1:44308 URI / 4 bytes
+2017-03-07 14:38:43,875 : {Error} Response code=404 mes=Wrong API
+2017-03-07 14:39:10,552 : {Debug} Accept connection from 127.0.0.1:44314 URI / 4 bytes
+2017-03-07 14:39:10,552 : {Error} Response code=404 mes=Wrong API
+2017-03-07 15:03:25,196 : {Debug} Server Start on port:9999
+2017-03-07 15:03:29,327 : {Debug} Accept connection from 127.0.0.1:44488 URI / 4 bytes
+2017-03-07 15:04:25,355 : {Debug} Server Start on port:9999
+2017-03-07 15:04:37,181 : {Debug} Accept connection from 127.0.0.1:44494 URI /group 4 bytes
+2017-03-07 15:05:18,053 : {Error} Response code=404 mes=Wrong API
+2017-03-07 15:06:15,619 : {Debug} Server Start on port:9999
+2017-03-07 15:06:16,282 : {Debug} Accept connection from 127.0.0.1:44510 URI /group 4 bytes
+2017-03-07 15:14:15,764 : {Debug} Server Start on port:9999
+2017-03-07 15:14:24,022 : {Debug} Accept connection from 127.0.0.1:44592 URI /group/api 4 bytes
+2017-03-07 15:14:24,022 : {Error} Response code=404 mes=Wrong API
+2017-03-07 15:14:54,353 : {Debug} Accept connection from 127.0.0.1:44598 URI /group/api/string 4 bytes
+2017-03-07 16:04:48,963 : {Debug} Server Start on port:9999
+2017-03-07 16:04:52,034 : {Debug} Accept connection from 127.0.0.1:45140 URI /group/api/string 4 bytes
+2017-03-07 17:13:33,211 : {Debug} Server Start on port:9999
+2017-03-07 17:13:40,941 : {Debug} Accept connection from 127.0.0.1:46050 URI /group/api/string 23 bytes
+2017-03-07 17:13:59,811 : {Debug} Accept connection from 127.0.0.1:46060 URI /group/api/calculator 23 bytes
+2017-03-07 17:13:59,811 : {Error} Response code=404 mes=Wrong API
+2017-03-07 17:14:34,125 : {Debug} Accept connection from 127.0.0.1:46064 URI /group/api/add 23 bytes
+2017-03-07 17:20:31,742 : {Debug} Server Start on port:9999
+2017-03-07 17:20:37,598 : {Debug} Accept connection from 127.0.0.1:46098 URI /group/api/add 23 bytes
+2017-03-07 17:21:52,182 : {Debug} Server Start on port:9999
+2017-03-07 17:21:56,404 : {Debug} Accept connection from 127.0.0.1:46112 URI /group/api/add 23 bytes
+2017-03-07 17:22:45,150 : {Debug} Server Start on port:9999
+2017-03-07 17:22:48,405 : {Debug} Accept connection from 127.0.0.1:46114 URI /group/api/add 23 bytes
+2017-03-07 17:23:07,017 : {Debug} Server Start on port:9999
+2017-03-07 17:23:10,709 : {Debug} Accept connection from 127.0.0.1:46120 URI /group/api/add 23 bytes
+2017-03-07 17:25:16,196 : {Debug} Server Start on port:9999
+2017-03-07 17:25:24,054 : {Debug} Accept connection from 127.0.0.1:46162 URI /group/api/add 27 bytes
+2017-03-07 17:39:30,173 : {Debug} Server Start on port:9999
+2017-03-07 17:42:05,129 : {Debug} Server Start on port:9999
+2017-03-07 17:42:08,533 : {Debug} Accept connection from 127.0.0.1:46300 URI /group/api/add 27 bytes
+2017-03-07 17:45:30,377 : {Debug} Accept connection from 127.0.0.1:46394 URI /group/api/add 27 bytes
+2017-03-08 10:31:10,768 : {Debug} Server Start on port:9999
+2017-03-08 10:31:14,047 : {Debug} Accept connection from 127.0.0.1:53416 URI /group/api/add 28 bytes
+2017-03-08 11:22:58,581 : {Debug} Server Start on port:9999
+2017-03-08 11:23:03,787 : {Debug} Accept connection from 127.0.0.1:53866 URI /group/api/add 28 bytes
+2017-03-08 11:23:58,733 : {Debug} Server Start on port:9999
+2017-03-08 11:24:00,976 : {Debug} Accept connection from 127.0.0.1:53872 URI /group/api/add 28 bytes
+2017-03-08 14:22:02,576 : {Debug} Server Start on port:9999
+2017-03-08 14:25:19,272 : {Debug} Accept connection from 127.0.0.1:57130 URI /group/api/add 0 bytes
+2017-03-08 14:31:12,436 : {Debug} Server Start on port:9999
+2017-03-08 14:31:39,329 : {Debug} Accept connection from 127.0.0.1:57238 URI /group/api/add 0 bytes
+2017-03-08 15:07:44,954 : {Debug} Accept connection from 127.0.0.1:57928 URI /group/api/add 0 bytes
+2017-03-08 15:09:20,088 : {Debug} Accept connection from 127.0.0.1:57938 URI /group/api/add 0 bytes
+2017-03-08 15:10:40,481 : {Debug} Accept connection from 127.0.0.1:57946 URI /group/api/add 0 bytes
+2017-03-08 15:11:53,830 : {Debug} Accept connection from 127.0.0.1:57958 URI /group/api/add 0 bytes
+2017-03-08 15:14:47,048 : {Debug} Accept connection from 127.0.0.1:58020 URI /group/api/add 0 bytes
+2017-03-08 15:22:42,834 : {Debug} Accept connection from 127.0.0.1:58132 URI /group/api/add 37 bytes
+2017-03-08 15:23:13,719 : {Debug} Accept connection from 127.0.0.1:58138 URI /group/api/add 37 bytes
+2017-03-08 15:33:30,528 : {Debug} Accept connection from 127.0.0.1:58250 URI /group/api/add 27 bytes
+2017-03-08 15:37:33,824 : {Debug} Accept connection from 127.0.0.1:58438 URI /group/api/add 27 bytes
+2017-03-08 15:37:43,668 : {Debug} Accept connection from 127.0.0.1:58442 URI /group/api/add 27 bytes
+2017-03-08 15:38:11,993 : {Debug} Accept connection from 127.0.0.1:58452 URI /group/api/add 28 bytes
+2017-03-08 15:38:13,807 : {Debug} Accept connection from 127.0.0.1:58454 URI /group/api/add 28 bytes
+2017-03-08 15:38:23,948 : {Debug} Accept connection from 127.0.0.1:58456 URI /group/api/add 28 bytes
+2017-03-08 15:45:39,938 : {Debug} Server Start on port:9999
+2017-03-08 15:45:44,658 : {Debug} Accept connection from 127.0.0.1:58682 URI /group/api/add 28 bytes
+2017-03-08 15:45:44,658 : {Debug} Response code=0 mes=sum = -1
+2017-03-08 15:55:27,035 : {Debug} Accept connection from 127.0.0.1:58774 URI /group/api/add 28 bytes
+2017-03-08 15:55:27,035 : {Debug} Response code=0 mes=sum = -1
+2017-03-08 15:55:35,194 : {Debug} Accept connection from 127.0.0.1:58776 URI /group/api/add 26 bytes
+2017-03-08 15:55:35,194 : {Debug} Response code=0 mes=sum = 19
+2017-03-08 15:55:49,377 : {Debug} Accept connection from 127.0.0.1:58780 URI /group/api/add 27 bytes
+2017-03-08 15:55:49,377 : {Debug} Response code=0 mes=sum = 21
+2017-03-08 15:56:57,208 : {Debug} Accept connection from 127.0.0.1:58788 URI /group/api/add 26 bytes
+2017-03-08 15:56:57,208 : {Debug} Response code=0 mes=sum = 19
+2017-03-08 16:01:24,881 : {Debug} Accept connection from 127.0.0.1:58886 URI /group/api/add 28 bytes
+2017-03-08 16:01:24,881 : {Debug} Response code=0 mes=sum = 120
+2017-03-08 16:05:45,157 : {Debug} Accept connection from 127.0.0.1:58972 URI /group/api/add 27 bytes
+2017-03-08 16:05:45,157 : {Debug} Response code=0 mes=sum = 23
+2017-03-08 16:08:56,587 : {Debug} Server Start on port:9999
+2017-03-08 16:09:03,384 : {Debug} Accept connection from 127.0.0.1:58992 URI /group/api/add 27 bytes
+2017-03-08 16:09:03,384 : {Debug} Response code=0 mes=sum = 23
+2017-03-08 16:30:20,998 : {Debug} Accept connection from 127.0.0.1:59648 URI /group/api/add 28 bytes
+2017-03-08 16:30:20,998 : {Debug} Response code=0 mes=sum = -3
+2017-03-08 16:32:10,640 : {Debug} Accept connection from 127.0.0.1:59660 URI /group/api/add 29 bytes
+2017-03-08 16:32:10,640 : {Debug} Response code=0 mes=sum = -23
+2017-03-09 09:48:48,475 : {Debug} Server Start on port:9999
+2017-03-09 09:48:54,293 : {Debug} Accept connection from 127.0.0.1:41618 URI /group/api/add 29 bytes
+2017-03-09 09:48:54,293 : {Debug} Response code=0 mes=sum = -23
+2017-03-09 09:49:04,540 : {Debug} Accept connection from 127.0.0.1:41620 URI /group/api/add 28 bytes
+2017-03-09 09:49:04,540 : {Debug} Response code=0 mes=sum = -3
+2017-03-09 09:49:12,065 : {Debug} Accept connection from 127.0.0.1:41622 URI /group/api/add 27 bytes
+2017-03-09 09:49:12,065 : {Debug} Response code=0 mes=sum = 7
+2017-03-09 09:56:33,473 : {Debug} Server Start on port:9999
+2017-03-09 09:56:38,949 : {Debug} Accept connection from 127.0.0.1:41746 URI /group/api/add 27 bytes
+2017-03-09 09:57:42,753 : {Debug} Response code=0 mes=sum = 7
+2017-03-09 10:20:12,359 : {Debug} Server Start on port:9999
+2017-03-09 10:20:21,593 : {Debug} Accept connection from 127.0.0.1:42326 URI /group/api/div 27 bytes
+2017-03-09 10:20:21,593 : {Debug} Response code=0 mes=sum = -3
+2017-03-09 10:22:34,767 : {Debug} Server Start on port:9999
+2017-03-09 10:22:41,069 : {Debug} Accept connection from 127.0.0.1:42350 URI /group/api/div 27 bytes
+2017-03-09 10:22:41,069 : {Debug} Response code=0 mes=div = -3.000000
+2017-03-09 10:23:18,736 : {Debug} Server Start on port:9999
+2017-03-09 10:23:22,500 : {Debug} Accept connection from 127.0.0.1:42358 URI /group/api/div 27 bytes
+2017-03-09 10:23:22,500 : {Debug} Response code=0 mes=div = -3.333333
+2017-03-09 10:24:26,226 : {Debug} Accept connection from 127.0.0.1:42370 URI /group/api/div 26 bytes
+2017-03-09 10:24:26,226 : {Debug} Response code=0 mes=div = 0.000000
+2017-03-09 10:24:32,743 : {Debug} Accept connection from 127.0.0.1:42374 URI /group/api/div 25 bytes
+2017-03-09 10:24:32,743 : {Debug} Response code=0 mes=div = 0.000000
+2017-03-09 10:24:37,597 : {Debug} Accept connection from 127.0.0.1:42376 URI /group/api/div 26 bytes
+2017-03-09 10:24:37,597 : {Debug} Response code=0 mes=div = 0.000000
+2017-03-09 10:24:43,137 : {Debug} Accept connection from 127.0.0.1:42378 URI /group/api/div 27 bytes
+2017-03-09 10:24:43,137 : {Debug} Response code=0 mes=div = 0.166667
+2017-03-09 10:24:48,876 : {Debug} Accept connection from 127.0.0.1:42380 URI /group/api/div 27 bytes
+2017-03-09 10:24:48,876 : {Debug} Response code=0 mes=div = 0.500000
+2017-03-09 10:25:04,976 : {Debug} Accept connection from 127.0.0.1:42386 URI /group/api/div 26 bytes
+2017-03-09 10:25:04,977 : {Debug} Response code=0 mes=div = 2.000000
+2017-03-09 10:25:15,451 : {Debug} Accept connection from 127.0.0.1:42392 URI /group/api/div 26 bytes
+2017-03-09 10:25:15,451 : {Debug} Response code=0 mes=div = 0.000000
+2017-03-09 10:25:38,630 : {Debug} Accept connection from 127.0.0.1:42394 URI /group/api/div 26 bytes
+2017-03-09 10:25:38,630 : {Debug} Response code=0 mes=div = 2.000000
+2017-03-09 10:30:33,741 : {Debug} Accept connection from 127.0.0.1:42582 URI /group/api/a 26 bytes
+2017-03-09 10:30:33,741 : {Error} Response code=404 mes=Wrong API
+2017-03-09 10:30:39,575 : {Debug} Accept connection from 127.0.0.1:42584 URI /group/api/add 26 bytes
+2017-03-09 10:30:39,576 : {Debug} Response code=0 mes=sum = 15
+2017-03-09 10:30:45,508 : {Debug} Accept connection from 127.0.0.1:42586 URI /group/api/add 26 bytes
+2017-03-09 10:30:45,508 : {Debug} Response code=0 mes=sum = 15
+2017-03-09 10:30:52,159 : {Debug} Accept connection from 127.0.0.1:42592 URI /group/api/add/h 26 bytes
+2017-03-09 10:30:52,159 : {Debug} Response code=0 mes=sum = 15
+2017-03-09 10:32:02,732 : {Debug} Server Start on port:9999
+2017-03-09 10:32:11,080 : {Debug} Accept connection from 127.0.0.1:42600 URI /group/api/add 26 bytes
+2017-03-09 10:32:11,080 : {Debug} Response code=0 mes=sum = 15
+2017-03-09 10:32:16,153 : {Debug} Accept connection from 127.0.0.1:42602 URI /group/api/add/h 26 bytes
+2017-03-09 10:32:16,153 : {Error} Response code=404 mes=Wrong API
+2017-03-09 10:32:21,867 : {Debug} Accept connection from 127.0.0.1:42604 URI /group/api/add 26 bytes
+2017-03-09 10:32:21,868 : {Debug} Response code=0 mes=sum = 15
+2017-03-09 10:32:31,985 : {Debug} Accept connection from 127.0.0.1:42610 URI /group/api/add 27 bytes
+2017-03-09 10:32:31,985 : {Debug} Response code=0 mes=sum = 5
+2017-03-09 10:32:37,651 : {Debug} Accept connection from 127.0.0.1:42612 URI /group/api/add 27 bytes
+2017-03-09 10:32:37,651 : {Debug} Response code=0 mes=sum = 5
+2017-03-09 10:32:46,309 : {Debug} Accept connection from 127.0.0.1:42614 URI /group/api/div 27 bytes
+2017-03-09 10:32:46,310 : {Debug} Response code=0 mes=div = -2.000000
+2017-03-09 10:56:29,013 : {Debug} Accept connection from 127.0.0.1:43316 URI /group/api/div 28 bytes
+2017-03-09 10:56:29,013 : {Debug} Response code=0 mes=div = -0.200000
+2017-03-09 14:17:43,833 : {Debug} Server Start on port:9999
+2017-03-09 14:17:52,892 : {Debug} Accept connection from 127.0.0.1:46216 URI /group/api/div 28 bytes
+2017-03-09 14:17:52,892 : {Debug} Response code=0 mes=div = -0.200000
+2017-03-09 14:27:25,642 : {Debug} Accept connection from 127.0.0.1:46566 URI /group/api/div 28 bytes
+2017-03-09 14:27:25,643 : {Debug} Response code=0 mes=div = -0.200000
+2017-03-09 14:39:52,144 : {Debug} Accept connection from 127.0.0.1:46740 URI /group/api/div 33 bytes
+2017-03-09 14:39:52,144 : {Debug} Response code=0 mes=div = -0.000002
+2017-03-09 14:39:58,942 : {Debug} Accept connection from 127.0.0.1:46744 URI /group/api/div 34 bytes
+2017-03-09 14:39:58,943 : {Debug} Response code=0 mes=div = -0.000000
+2017-03-09 14:40:31,504 : {Debug} Server Start on port:9999
+2017-03-09 14:40:43,325 : {Debug} Accept connection from 127.0.0.1:46746 URI /group/api/div 34 bytes
+2017-03-09 14:40:43,325 : {Debug} Response code=0 mes=div = -0.000000
+2017-03-09 14:40:55,822 : {Debug} Accept connection from 127.0.0.1:46754 URI /group/api/div 31 bytes
+2017-03-09 14:40:55,822 : {Debug} Response code=0 mes=div = -0.000200
+2017-03-10 09:34:56,749 : {Debug} Server Start on port:9999
+2017-03-10 09:35:08,856 : {Debug} Accept connection from 127.0.0.1:34708 URI /group/api/mul 31 bytes
+2017-03-10 09:35:08,857 : {Debug} Response code=0 mes=div = -500000
+2017-03-10 09:35:27,527 : {Debug} Accept connection from 127.0.0.1:34710 URI /group/api/mul 27 bytes
+2017-03-10 09:35:27,527 : {Debug} Response code=0 mes=div = -20
+2017-03-10 09:35:46,325 : {Debug} Server Start on port:9999
+2017-03-10 09:35:54,104 : {Debug} Accept connection from 127.0.0.1:34718 URI /group/api/mul 27 bytes
+2017-03-10 09:35:54,105 : {Debug} Response code=0 mes=mul = -20
+2017-03-10 09:36:01,808 : {Debug} Accept connection from 127.0.0.1:34720 URI /group/api/mul 26 bytes
+2017-03-10 09:36:01,808 : {Debug} Response code=0 mes=mul = 20
+2017-03-10 09:36:06,736 : {Debug} Accept connection from 127.0.0.1:34722 URI /group/api/mul 29 bytes
+2017-03-10 09:36:06,736 : {Debug} Response code=0 mes=mul = 35316
+2017-03-10 09:38:04,035 : {Debug} Accept connection from 127.0.0.1:34750 URI /group/api/sub 29 bytes
+2017-03-10 09:38:04,035 : {Error} Response code=404 mes=Wrong API
+2017-03-10 09:38:15,900 : {Debug} Accept connection from 127.0.0.1:34752 URI /group/api/div/ 29 bytes
+2017-03-10 09:38:15,901 : {Error} Response code=404 mes=Wrong API
+2017-03-10 09:38:27,973 : {Debug} Accept connection from 127.0.0.1:34754 URI /group/api/div 29 bytes
+2017-03-10 09:38:27,973 : {Debug} Response code=0 mes=div = 8829.000000
+2017-03-10 09:52:25,849 : {Debug} Server Start on port:9999
+2017-03-10 09:52:29,692 : {Debug} Accept connection from 127.0.0.1:34916 URI /group/api/div 28 bytes
+2017-03-10 09:52:29,692 : {Debug} Response code=0 mes=div = 0.500000
+2017-03-10 09:53:16,499 : {Debug} Server Start on port:9999
+2017-03-10 09:53:18,812 : {Debug} Accept connection from 127.0.0.1:34928 URI /group/api/div 28 bytes
+2017-03-10 09:53:26,847 : {Debug} Response code=0 mes=div = 0.500000
+2017-03-10 09:53:40,000 : {Debug} Server Start on port:9999
+2017-03-10 09:53:50,708 : {Debug} Accept connection from 127.0.0.1:34930 URI /group/api/div 28 bytes
